@@ -1,0 +1,1 @@
+[{"id":"c2dd8ed5.7dd7f","type":"comment","z":"deb0d57.1c46528","name":"2. Click to send data","info":"To automatically send data:\n1. Change *Repeat* to interval.\n2. Click Deploy button.\n","x":110,"y":160,"wires":[]}]
